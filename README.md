@@ -125,6 +125,11 @@ Thank you for your order!
 ```
 ## 🎥 Automation Execution Demo
 
+Click the image below to watch the Selenium automation running.
+
+[![Automation Demo](https://img.youtube.com/vi/UpGVPt8LlKk/maxresdefault.jpg)](https://youtu.be/UpGVPt8LlKk)
+## 🎥 Automation Execution Demo
+
 This video demonstrates the automated purchase flow using Selenium WebDriver.
 
 ▶ Watch the demo:
