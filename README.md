@@ -123,11 +123,13 @@ The automation script performs the following steps:
 ```
 Thank you for your order!
 ```
-## Automation Execution Demo
+## 🎥 Automation Execution Demo
 
-The following video demonstrates the automated Selenium test execution for the SauceDemo purchase flow.
+This video demonstrates the automated purchase flow using Selenium WebDriver.
 
-https://github.com/Pranjalmishr1/selenium-saucedemo/blob/main/automation-demo.mp4.mp4
+▶ Watch the demo:
+
+https://github.com/Pranjalmishr1/selenium-saucedemo/raw/main/automation-demo.mp4.mp4
 ---
 
 # Requirements Implemented
